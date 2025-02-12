@@ -23,6 +23,10 @@ cd AngkorCMS
 
 pip install -r requirements.txt
 
+
+## Install in Development Mode
+`pip install -e .`
+
 ## On Windows:
 `python -m pip install -U pip setuptools`
 
