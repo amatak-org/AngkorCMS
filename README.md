@@ -6,11 +6,11 @@ AngkorCMS is written in Python by RONY.
 ## Struture
 
 `
-angkor-cms/
-│
-├── app.py
-├── angkor
-│   └── __init__.py
+angkor-cms/\
+│\
+├── app.py\
+├── angkor\
+│   └── __init__.py\
 └── requirements.txt
 `
 
@@ -33,7 +33,8 @@ pip install -r requirements.txt
 ## Terminal
 `angkor run`
 
-This will start the Angkor server on port 7000, and you can access it by navigating to 
+This will start the Angkor server on port 7000,\
+and you can access it by navigating to \ 
 http://localhost:7000 in your browser.
 
 
@@ -51,4 +52,4 @@ Jinja2       3.1.5\
 MarkupSafe   3.0.2\
 pip          25.0.1\
 setuptools   75.8.0\
-Werkzeug     3.1.3\
+Werkzeug     3.1.3
