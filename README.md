@@ -23,11 +23,11 @@ cd AngkorCMS
 
 pip install -r requirements.txt
 
-On Windows:
-python -m pip install -U pip setuptools
+## On Windows:
+`python -m pip install -U pip setuptools`
 
 ## Terminal
-angkor run
+`angkor run`
 
 This will start the Angkor server on port 7000, and you can access it by navigating to 
 http://localhost:7000 in your browser.
