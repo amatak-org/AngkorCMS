@@ -35,3 +35,20 @@ pip install -r requirements.txt
 
 This will start the Angkor server on port 7000, and you can access it by navigating to 
 http://localhost:7000 in your browser.
+
+
+## Tipes:
+# To check all package is installed
+`pip list`
+
+angkor       0.1\
+blinker      1.9.0\
+click        8.1.8\
+colorama     0.4.6\
+Flask        2.3.2\
+itsdangerous 2.2.0\
+Jinja2       3.1.5\
+MarkupSafe   3.0.2\
+pip          25.0.1\
+setuptools   75.8.0\
+Werkzeug     3.1.3\
