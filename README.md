@@ -10,3 +10,9 @@ angkor-cms/
 ├── angkor
 │   └── __init__.py
 └── requirements.txt
+
+
+## Install
+
+
+pip install -r requirements.txt
