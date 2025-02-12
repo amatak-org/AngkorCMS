@@ -52,3 +52,17 @@ MarkupSafe   3.0.2\
 pip          25.0.1\
 setuptools   75.8.0\
 Werkzeug     3.1.3
+
+=======================
+#Check the Entry Point:
+Run which angkor (on macOS/Linux) or where angkor (on Windows) to verify that the angkor command is correctly installed.
+
+#Check the PYTHONPATH:
+Ensure that the cli.py file is in the root directory and that Python can find it. If necessary, add the project root directory to the PYTHONPATH environment variable.
+
+#Reinstall the Package:
+Uninstall and reinstall the package in development mode:
+
+bash\
+pip uninstall angkor\
+`pip install -e .`
