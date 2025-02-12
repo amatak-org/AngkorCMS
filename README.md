@@ -14,10 +14,14 @@ angkor-cms/
 
 ## Install
 
-https://github.com/amatak-org/AngkorCMS.git
+`git clone https://github.com/amatak-org/AngkorCMS.git`
+
 cd AngkorCMS
 
 pip install -r requirements.txt
+
+On Windows:
+python -m pip install -U pip setuptools
 
 ## Terminal
 angkor run
