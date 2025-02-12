@@ -14,5 +14,7 @@ angkor-cms/
 
 ## Install
 
+https://github.com/amatak-org/AngkorCMS.git
+cd AngkorCMS
 
 pip install -r requirements.txt
