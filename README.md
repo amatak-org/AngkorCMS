@@ -29,6 +29,7 @@ pip install -r requirements.txt
 `pip install -e .`
 
 ## On Windows:
+`py -m pip install flask`\
 `python -m pip install -U pip setuptools`
 
 ## Terminal
@@ -63,7 +64,7 @@ Run which angkor (on macOS/Linux) or where angkor (on Windows) to verify that th
 
 #Check the PYTHONPATH:
 Ensure that the cli.py file is in the root directory and that Python can find it.\
-If necessary, add the project root directory to the PYTHONPATH environment variable.
+ If necessary, add the project root directory to the PYTHONPATH environment variable.
 
 #Reinstall the Package:
 Uninstall and reinstall the package in development mode:
